@@ -20,9 +20,6 @@ Here are some ideas to get you started:
 
 Hi there 👋, I'm Izmi Azis Web Developer from Jakarta, Indonesia.
 
-### 🌱 I’m currently learning
-
-
 <p align="center">
     <a href="https://www.linkedin.com/in/ismiazis96/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ismi"         height="30" width="30" /></a>
     <a href="https://www.instagram.com/ismiazis96/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ismi" height="30"     width="30" /></a>
