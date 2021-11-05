@@ -22,6 +22,7 @@ Hi there 👋, I'm Izmi Azis Web Developer from Jakarta, Indonesia.
 
 ### 🌱 I’m currently learning
 
+- PHP Procedural
 - CodeIgniter (PHP)
 - Laravel (PHP)
 - Javascript
@@ -44,8 +45,8 @@ Hi there 👋, I'm Izmi Azis Web Developer from Jakarta, Indonesia.
 </p>
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/ismi-azis-561b57199/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rzldin"         height="30" width="30" /></a>
-    <a href="https://www.instagram.com/azizgjoy/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="rzldin" height="30"     width="30" /></a>
+    <a href="https://www.linkedin.com/in/ismi-azis-561b57199/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ismi"         height="30" width="30" /></a>
+    <a href="https://www.instagram.com/azizgjoy/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ismi" height="30"     width="30" /></a>
 </p>
 
 ### 📫 How to reach me:
