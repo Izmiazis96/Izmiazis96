@@ -20,10 +20,12 @@ Here are some ideas to get you started:
 
 Hi there 👋, I'm Izmi Azis Web Developer from Jakarta, Indonesia.
 
-<p align="center">
-    <a href="https://www.linkedin.com/in/ismiazis96/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ismi"         height="30" width="30" /></a>
-    <a href="https://www.instagram.com/ismiazis96/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ismi" height="30"     width="30" /></a>
-</p>
+[![Linkedin](https://img.shields.io/badge/-ismiazis96-blue?style=flat-square&labelColor=gray&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ismiazis96/)](https://www.linkedin.com/in/ismiazis96/)
+[![Instagram](https://img.shields.io/badge/-@ismiazis96-purple?style=flat-square&labelColor=gray&logo=instagram&logoColor=white&link=https://instagram.com/ismiazis96/)](https://instagram.com/ismiazis96)
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Izmiazis96&bg_color=1d1f21)
+
+<a href="https://github.com/nisacodelifings/nisacodelifings">
 
 
 ### Github Stats
